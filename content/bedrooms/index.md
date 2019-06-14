@@ -3,8 +3,6 @@ title: Bedrooms
 author: belawood
 type: page
 date: 2014-11-29T16:15:14+00:00
-motopress-ce-save-in-version:
-  - 3.0.1
 
 ---
 <div style="text-align: center;">
