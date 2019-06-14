@@ -48,15 +48,15 @@ series = "series"
 
 	[[menu.main]]
 	name   = "Bedrooms"
-	URL    = "/bedrooms"
+	URL    = "/bedrooms/"
 	weight = 2
 
 	[[menu.main]]
 	name   = "Services"
-	URL    = "/services"
+	URL    = "/services/"
 	weight = 3
 
 	[[menu.main]]
 	name   = "Reservations"
-	URL    = "/reservations"
-	weight = 3
+	URL    = "/reservations/"
+	weight = 4
