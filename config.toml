@@ -1,0 +1,62 @@
+baseURL      = "http://belasbandb.com/"
+languageCode = "en-us"
+title        = "Bela's Bed and Breakfast"
+theme        = "co-op"
+
+[author]
+
+name  = "Bela Wood"
+email = "belasbandb@gmail.com"
+uri   = "https://belasbandb.com"
+
+[permalinks]
+  post = "/blog/:year-:month-:day-:slug/"
+
+[params]
+
+# logo         = "/2017/08/FaviconBela.jpg"
+description  = "Best Pet-friendly Accommodation in San Cristobal de las Casas (Chiapas)"
+
+[params.style]
+
+accentPrimary   = "#81a1c1"
+accentSecondary = "#a3be8c"
+accentSubtle    = "#575757"
+backgroundDark  = "#232432"
+backgroundLight = "#fcfcfc"
+
+[params.contact]
+
+address   = "Calle Dr. Navarro #2, Barrio El Cerrillo, San Cristobal de Las Casas , Chiapas 29220"
+email     = "belasbandb@gmail.com"
+geo       = "geo:16.7405,-92.6365"
+telephone = "+1 (707) 922-5846"
+tel       = "tel:+17079225846"
+# muc       = "chat@example.net"
+
+[taxonomies]
+
+tag    = "tags"
+series = "series"
+
+[menu]
+
+	[[menu.main]]
+	name   = "Welcome"
+	URL    = "/"
+	weight = 1
+
+	[[menu.main]]
+	name   = "Bedrooms"
+	URL    = "/bedrooms"
+	weight = 2
+
+	[[menu.main]]
+	name   = "Services"
+	URL    = "/services"
+	weight = 3
+
+	[[menu.main]]
+	name   = "Reservations"
+	URL    = "/reservations"
+	weight = 3

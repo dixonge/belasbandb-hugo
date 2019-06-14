@@ -1,0 +1,136 @@
+#page-header {
+    max-width: none;
+    margin: 0 10%;
+}
+
+#page-header h1 {
+    font-size: 3rem;
+    flex-basis: 72%;
+    font-family: 'Crimson Text', serif;
+}
+
+#page-header h2 {
+    font-size: 1.5rem;
+}
+
+main[role=main] {
+    max-width: 90%;
+}
+
+.row1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.col1, .col2, .col3 {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+}
+
+.col1 {
+    flex: 1 1 0;
+}
+
+.col2 {
+    flex: 2 1 0;
+}
+
+.col3 {
+    flex: 1 1 0;
+    text-align: right;
+    max-width: 25%;
+    padding-left: 25px;
+}
+
+.col-left, .col-right, .policy, .contact {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1 1 0;
+    width: 48%;
+}
+
+.col-left {
+    background-color: rgba(241, 178, 30, 0.26);
+    padding-right: 10px;
+}
+
+.col-right {
+    padding-left: 10px;
+}
+
+.col-right img {
+    width: 100%;
+}
+
+.col-right ul {
+    list-style-type: none;
+}
+
+.policy {
+    background-color: rgba(241, 178, 30, 0.26);
+    padding-right: 10px;
+}
+
+.contact {
+    background-color: rgba(250, 194, 20, 0.51);
+    padding-left: 10px;
+
+}
+
+    .button-obj {
+    display: block;
+    border-radius: 3px;
+    text-align: center;
+    padding: 10px 23px;
+    font-size: 16px;
+    margin: 10px 0px;
+    line-height: 1em;
+}
+
+.col-right-slides {
+    height: 450px;
+    width: 600px;
+   overflow:hidden;
+   position:relative;
+ }
+ 
+ .slides{
+   position:absolute;
+   animation:round 20s infinite;
+   opacity:0;
+   
+ }
+ @keyframes round{   
+   25%{opacity:1;}
+   40%{opacity:0;}
+ }
+ 
+.col-right-slides img:nth-child(4){animation-delay:0s;}
+.col-right-slides img:nth-child(3){animation-delay:5s;}
+.col-right-slides img:nth-child(2){animation-delay:10s;}
+.col-right-slides img:nth-child(1){animation-delay:15s;}
+
+
+.button-bedrooms {
+    background-color: #92ca26;
+}
+
+.button-services {
+    background-color: #ff8c1a;
+}
+
+.button-reservations {
+    background-color: #f2bf0b;
+}
+
+.code-obj img {
+    width: 75%;
+}
+
+.code-obj {
+    text-align: center;
+}
