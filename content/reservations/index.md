@@ -5,22 +5,17 @@ type: page
 date: 2014-11-29T16:17:10+00:00
 
 ---
+## Reservations
 <div class="row1">
- <div class="policy">
+<div class="policy">
 <strong>Reservation Cancellation Policy</strong>
-<p>
-
 ![](/2017/07/couch-corner.jpg)
-
-</p>
-<p>There is a minimum three-night stay at Bela&#8217;s and a three-month cancellation fee that consists of a two-night deposit.</p>
+<p>There is a minimum three-night stay at Bela's and a three-month cancellation fee that consists of a two-night deposit.</p>
 <p><em>Drop us a note if you are interested in staying here!</em></p>
- </div>
- <div class="contact">
+</div>
+<div class="contact">
 <strong>Manager Bela Wood</strong>
-
 ![](/2017/07/CALENDARIO-9.jpg)
-
 <p>
 <strong>Phone:</strong>
 </p>
@@ -36,5 +31,6 @@ Whatsapp: <a href="https://api.whatsapp.com/send?phone=5219671215578">967 121 55
 </li>
 </ul>
 <strong>E-mail:  </strong><a href="mailto:belasbandb@gmail.com">belasbandb@gmail.com</a>
- </div>
 </div>
+</div>
+[Copyright Bela's B&B, Bela Wood](https://belasbandb.com)
