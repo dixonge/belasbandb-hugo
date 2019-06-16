@@ -4,7 +4,7 @@ author: belawood
 type: page
 date: 2014-11-29T16:15:14+00:00
 resources: 
-- src: "*.jpg"
+- src: "/*.jpg"
   name: image-:counter
   title: image-title-:counter
 
@@ -44,9 +44,9 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </p>
 </div>
 
-{{< img src="BB-4.jpg" >}}
-{{< img src="BB-3.jpg" >}}
-{{< img src="BB-1.jpg" >}}
+{{< image src="BB-4.jpg" >}}
+{{< image src="BB-3.jpg" >}}
+{{< image src="BB-1.jpg" >}}
 </div>
 
 * * *
@@ -62,10 +62,10 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </p>
 </div>
 
-{{< img src="BB-20.jpg" >}}
-{{< img src="BB-19.jpg" >}}
-{{< img src="BB-17.jpg" >}}
-{{< img src="BB-13.jpg" >}}
+{{< image src="BB-20.jpg" >}}
+{{< image src="BB-19.jpg" >}}
+{{< image src="BB-17.jpg" >}}
+{{< image src="BB-13.jpg" >}}
 
 </div>
 
@@ -82,10 +82,10 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </p>
 </div>
 
-{{< img src="ILU5398.jpg" >}}
-{{< img src="ILU5395.jpg" >}}
-{{< img src="ILU5392.jpg" >}}
-{{< img src="ILU5394.jpg" >}}
+{{< image src="ILU5398.jpg" >}}
+{{< image src="ILU5395.jpg" >}}
+{{< image src="ILU5392.jpg" >}}
+{{< image src="ILU5394.jpg" >}}
 
 </div>
 
@@ -99,9 +99,9 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </p>
 </div>
 
-{{< img src="BB-30.jpg" >}}
-{{< img src="BB-27.jpg" >}}
-{{< img src="BB-28.jpg" >}}
+{{< image src="BB-30.jpg" >}}
+{{< image src="BB-27.jpg" >}}
+{{< image src="BB-28.jpg" >}}
 
 </div>
 
@@ -112,9 +112,9 @@ On the courtyard garden there is a room with a private bath and there are two sm
     <strong><span style="font-size: 14.0pt;font-family: 'trebuchet ms', geneva, sans-serif;">Room with shared bathroom:</span></strong><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 14pt;">Small</span></em> </span><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 10.0pt;">$40 USD Single occupancy.</span></em></span>
   </div>
 
-{{< img src="outside-sitting-area-orig.jpg" >}}
-{{< img src="ILU5291.jpg" >}}
-{{< img src="ILU5289.jpg" >}}
+{{< image src="outside-sitting-area-orig.jpg" >}}
+{{< image src="ILU5291.jpg" >}}
+{{< image src="ILU5289.jpg" >}}
 
 </div>
 
