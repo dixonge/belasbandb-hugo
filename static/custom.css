@@ -6,10 +6,6 @@ td {
     padding: 0 5px 0 0;
 }
 
-p img {
-    width: 24%;
-}
-
 #page-header {
     max-width: none;
     margin: 0 10%;
@@ -152,4 +148,13 @@ ul {
 
 .code-obj {
     text-align: center;
+}
+
+.yellow p, .orange p {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 24%));
+}
+
+.yellow p img, .orange p img {
+  max-width: 100%;
 }

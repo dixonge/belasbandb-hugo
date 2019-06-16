@@ -5,40 +5,26 @@ type: page
 date: 2014-11-29T16:15:14+00:00
 
 ---
-<div style="text-align: center;">
-You have<strong> five lovely bedrooms to choose</strong> from, all very cozy and homey, with wonderful service.
-</div>
+## Bedrooms
 
-<div style="text-align: center;">
-</div>
+<div style="text-align: center;">You have<strong> five lovely bedrooms to choose</strong> from, all very cozy and homey, with wonderful service.<br />
+<br />
+On the courtyard garden there is a room with a private bath and there are two small bedrooms with a shared bath, one with a view of the garden. Up the terrace there are two bedrooms, each with private bathrooms, with views of the city. The top room has a balcony with a breath-taking view and queen bed, and the lower room is a suite with a sitting area and king-size bed.</div>
 
-<div style="text-align: center;">
-<p>
-    On the courtyard garden there is a room with a private bath and there are two small bedrooms with a shared bath, one with a view of the garden. Up the terrace there are two bedrooms, each with private bathrooms, with views of the city. The top room has<br /> a balcony with a breath-taking view and queen bed, and the lower room is a suite with a sitting area and king-size bed.
-</p>
-</div>
-
-* * *
+-----
 
 <div class="yellow">
 <div class="text-top">
-<p>
-<strong><span style="font-size: 14.0pt;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Master Suite</span></span></strong>
-</p>
-    
-<p style="text-align: center;">
-<em>King bed, kitchenette, bath with separate shower and tub, second floor with two twin beds, sitting area and big balcony.</em><em> $150 USD double occupancy.</em>
-</p>
+<strong><span style="font-size: 14.0pt;font-family: 'trebuchet ms', geneva, sans-serif;">Master Suite</span></strong>
+<div style="text-align: center;">
+<em>King bed, kitchenette, bath with separate shower and tub, second floor with two twin beds, sitting area and big balcony. $150 USD double occupancy.</em>
+</div>
 </div>
 
-{{< img sizes="250px" srcset="/bedrooms/MasterSuit3.jpg" >}}
-
-{{< img sizes="250px" srcset="/bedrooms/MasterSuit.jpg" >}}
-
-{{< img sizes="250px" srcset="/bedrooms/MasterSuit2.jpg" >}}
-
-{{< img sizes="250px" srcset="/bedrooms/MasterSuit1.jpg" >}}
-
+![](MasterSuit3.jpg)
+![](MasterSuit.jpg)
+![](MasterSuit2.jpg)
+![](MasterSuit1.jpg)
 </div>
 
 * * *
@@ -46,7 +32,7 @@ You have<strong> five lovely bedrooms to choose</strong> from, all very cozy and
 <div class="orange">
 <div class="text-top">
 <p>
-<strong><span style="font-size: 14.0pt;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Suite </span></span></strong>
+<strong><span style="font-size: 14.0pt;font-family: 'trebuchet ms', geneva, sans-serif;">Suite </span></strong>
 </p>
 
 <p>
@@ -64,7 +50,7 @@ You have<strong> five lovely bedrooms to choose</strong> from, all very cozy and
 <div class="yellow">
 <div class="text-top">
 <p>
-<strong><span style="font-size: 14.0pt;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">The Cottage Room</span></span></strong>
+<strong><span style="font-size: 14.0pt;font-family: 'trebuchet ms', geneva, sans-serif;">The Cottage Room</span></strong>
 </p>
 
 <p>
@@ -103,8 +89,9 @@ You have<strong> five lovely bedrooms to choose</strong> from, all very cozy and
 
 <div class="yellow">
 <div class="text-top">
-<p>
-<span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="font-size: 14.0pt;">Room with shared bathroom:</span></strong></span><br /> <em><span style="font-size: 14pt;">Medium</span></em><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 10.0pt;">$45 USD Single occupancy $60 USD double occupancy.</span></em></span>
+<p style="font-family: 'trebuchet ms', geneva, sans-serif;font-size: 14.0pt;"><strong>Room with shared bathroom:</strong></p>
+<p><em>Medium</em></p>
+<p style="font-family: 'trebuchet ms', geneva, sans-serif;font-size: 10.0pt;"><em>$45 USD Single occupancy<br />$60 USD double occupancy.</em>
 </p>
 </div>
 
@@ -118,7 +105,7 @@ You have<strong> five lovely bedrooms to choose</strong> from, all very cozy and
 
 <div class="orange">
   <div class="text-top">
-    <strong><span style="font-size: 14.0pt;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Room with shared bathroom:</span></span></strong><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 14pt;">Small</span></em> </span><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 10.0pt;">$40 USD Single occupancy.</span></em></span>
+    <strong><span style="font-size: 14.0pt;font-family: 'trebuchet ms', geneva, sans-serif;">Room with shared bathroom:</span></strong><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 14pt;">Small</span></em> </span><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 10.0pt;">$40 USD Single occupancy.</span></em></span>
   </div>
 
 ![](/2017/07/outside-sitting-area-orig.jpg)
