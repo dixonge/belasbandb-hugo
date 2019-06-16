@@ -3,6 +3,10 @@ title: Bedrooms
 author: belawood
 type: page
 date: 2014-11-29T16:15:14+00:00
+resources: 
+- src: "*.jpg"
+  name: image-:counter
+  title: image-title-:counter
 
 ---
 ## Bedrooms
@@ -21,10 +25,10 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </div>
 </div>
 
-![](MasterSuit3.jpg)
-![](MasterSuit.jpg)
-![](MasterSuit2.jpg)
-![](MasterSuit1.jpg)
+{{< image src="MasterSuit3.jpg" >}}
+{{< image src="MasterSuit.jpg" >}}
+{{< image src="MasterSuit2.jpg" >}}
+{{< image src="MasterSuit1.jpg" >}}
 </div>
 
 * * *
@@ -40,9 +44,9 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </p>
 </div>
 
-![](/2017/07/BB-4.jpg)
-![](/2017/07/BB-3.jpg)
-![](/2017/07/BB-1.jpg)
+{{< img src="BB-4.jpg" >}}
+{{< img src="BB-3.jpg" >}}
+{{< img src="BB-1.jpg" >}}
 </div>
 
 * * *
@@ -58,10 +62,10 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </p>
 </div>
 
-![](/2017/07/BB-20.jpg)
-![](/2017/07/BB-19.jpg)
-![](/2017/07/BB-17.jpg)
-![](/2017/07/BB-13.jpg)
+{{< img src="BB-20.jpg" >}}
+{{< img src="BB-19.jpg" >}}
+{{< img src="BB-17.jpg" >}}
+{{< img src="BB-13.jpg" >}}
 
 </div>
 
@@ -78,10 +82,10 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </p>
 </div>
 
-![](/2017/07/ILU5398.jpg)
-![](/2017/07/ILU5395.jpg)
-![](/2017/07/ILU5392.jpg)
-![](/2017/07/ILU5394.jpg)
+{{< img src="ILU5398.jpg" >}}
+{{< img src="ILU5395.jpg" >}}
+{{< img src="ILU5392.jpg" >}}
+{{< img src="ILU5394.jpg" >}}
 
 </div>
 
@@ -95,9 +99,9 @@ On the courtyard garden there is a room with a private bath and there are two sm
 </p>
 </div>
 
-![](/2017/07/BB-30.jpg)
-![](/2017/07/BB-27.jpg)
-![](/2017/07/BB-28.jpg)
+{{< img src="BB-30.jpg" >}}
+{{< img src="BB-27.jpg" >}}
+{{< img src="BB-28.jpg" >}}
 
 </div>
 
@@ -108,9 +112,9 @@ On the courtyard garden there is a room with a private bath and there are two sm
     <strong><span style="font-size: 14.0pt;font-family: 'trebuchet ms', geneva, sans-serif;">Room with shared bathroom:</span></strong><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 14pt;">Small</span></em> </span><br /> <span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><span style="font-size: 10.0pt;">$40 USD Single occupancy.</span></em></span>
   </div>
 
-![](/2017/07/outside-sitting-area-orig.jpg)
-![](/2017/07/ILU5291.jpg)
-![](/2017/07/ILU5289.jpg)
+{{< img src="outside-sitting-area-orig.jpg" >}}
+{{< img src="ILU5291.jpg" >}}
+{{< img src="ILU5289.jpg" >}}
 
 </div>
 
