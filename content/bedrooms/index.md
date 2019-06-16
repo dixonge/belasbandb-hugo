@@ -31,10 +31,13 @@ You have<strong> five lovely bedrooms to choose</strong> from, all very cozy and
 </p>
 </div>
 
-![](/2014/11/MasterSuit3jpg.jpg)
-![](/2014/11/MasterSuit.jpg)
-![](/2014/11/MasterSuit2.jpg)
-![](/2014/11/MasterSuit1.jpg)
+{{< img sizes="250px" srcset="/bedrooms/MasterSuit3.jpg" >}}
+
+{{< img sizes="250px" srcset="/bedrooms/MasterSuit.jpg" >}}
+
+{{< img sizes="250px" srcset="/bedrooms/MasterSuit2.jpg" >}}
+
+{{< img sizes="250px" srcset="/bedrooms/MasterSuit1.jpg" >}}
 
 </div>
 
