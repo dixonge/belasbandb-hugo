@@ -5,7 +5,7 @@ languageCode = "en-us"
 title        = "Bela's Bed and Breakfast"
 theme        = "co-op"
 canonifyurls = "true"
-HTML_Skip_HTML = "true"
+timeout = "30000"
 
 [author]
 
