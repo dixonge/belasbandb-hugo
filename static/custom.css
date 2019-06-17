@@ -1,9 +1,34 @@
+div.yellow {
+    background-color: yellow!important;
+}
+
+div.orange {
+    background-color: orange;
+}
+
+div.yellow p, div.orange p {
+    margin: 10px 0 10px 0;
+}
+
 body a {
     color: blue;
 }
 
 td {
     padding: 0 5px 0 0;
+}
+
+.site-title {
+    font-size: 60px;
+    font-family: 'Crimson Text', serif;
+    font-weight: normal;
+    font-style: italic;
+    text-transform: none;
+    letter-spacing: -2px;
+}
+
+.site-title h2 {
+    margin: 0 0;
 }
 
 #page-header {
@@ -13,12 +38,30 @@ td {
 
 #page-header h1 {
     font-size: 3rem;
-    flex-basis: 72%;
+    flex-basis: 55%;
     font-family: 'Crimson Text', serif;
 }
 
 #page-header h2 {
     font-size: 1.5rem;
+}
+
+#page-header nav {
+    width: auto;
+}
+
+#page-header nav ul {
+    justify-content: space-evenly;
+}
+
+#page-header nav ul li {
+    margin: 0 10px;
+}
+
+#page-header nav ul li a {
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    line-height: 23px;
 }
 
 main[role=main] {
@@ -44,11 +87,14 @@ figure.image {
 }
 
 .col1 {
-    flex: 1 1 0;
+    flex: 0 1 0;
+    padding-right: 25px;
 }
 
 .col2 {
     flex: 2 1 0;
+    background-color: rgba(241, 178, 30, 0.26);
+    padding: 0 10px;
 }
 
 .col3 {
@@ -56,6 +102,10 @@ figure.image {
     text-align: right;
     max-width: 25%;
     padding-left: 25px;
+}
+
+i.motopress-btn-icon-align-left {
+    padding-right: 15px;
 }
 
 .col-left, .col-right, .policy, .contact {
@@ -68,7 +118,7 @@ figure.image {
 
 .col-left {
     background-color: rgba(241, 178, 30, 0.26);
-    padding-right: 10px;
+    padding: 0 10px;
 }
 
 .col-right {
