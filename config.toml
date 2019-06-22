@@ -46,21 +46,21 @@ series = "series"
 [menu]
 
 	[[menu.main]]
-	name   = "Welcome"
+	name   = "WELCOME"
 	URL    = "/"
 	weight = 1
 
 	[[menu.main]]
-	name   = "Bedrooms"
+	name   = "BEDROOMS"
 	URL    = "/bedrooms/"
 	weight = 2
 
 	[[menu.main]]
-	name   = "Services"
+	name   = "SERVICES"
 	URL    = "/services/"
 	weight = 3
 
 	[[menu.main]]
-	name   = "Reservations"
+	name   = "RESERVATIONS"
 	URL    = "/reservations/"
 	weight = 4
