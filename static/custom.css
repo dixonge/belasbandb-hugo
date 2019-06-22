@@ -8,9 +8,10 @@ div.orange {
 
 div.yellow p, div.orange p {
     margin: 10px 0 10px 0;
+    padding: 0 5px;
 }
 
-div.yellow figure.image a image, div.orange figure.image a image {
+div.yellow figure.image a img, div.orange figure.image a img {
     margin: 0 5px;
 }
 
