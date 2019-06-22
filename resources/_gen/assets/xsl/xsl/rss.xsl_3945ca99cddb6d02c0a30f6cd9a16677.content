@@ -7,10 +7,10 @@
 				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 				<title><xsl:value-of select="rss/channel/title"/></title>
 				<link rel="stylesheet"
-					href="http://localhost:34293/css/main.min.0457ce2bcebed1e6acb86bb460c5324978342a634e2dc1d9f4fb4297025581da.css"
+					href="http://localhost:1313/css/main.min.0457ce2bcebed1e6acb86bb460c5324978342a634e2dc1d9f4fb4297025581da.css"
 					integrity="sha256-BFfOK86+0easuGu0YMUySXg0KmNOLcHZ9PtClwJVgdo="/>
 				<link rel="stylesheet"
-					href="http://localhost:34293/css/rss.min.6e0af1640c8a487b5ca0cc775d7b5b3e558e9b46e987dfeb60f37270fb9275ae.css"
+					href="http://localhost:1313/css/rss.min.6e0af1640c8a487b5ca0cc775d7b5b3e558e9b46e987dfeb60f37270fb9275ae.css"
 					integrity="sha256-bgrxZAyKSHtcoMx3XXtbPlWOm0bph9/rYPNycPuSda4="/>
 			</head>
 			<body>

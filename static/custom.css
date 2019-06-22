@@ -107,6 +107,11 @@ figure.image {
     text-align: right;
     max-width: 25%;
     padding-left: 25px;
+    align-items: center;
+}
+
+.button-obj {
+    width: 70%;
 }
 
 i.motopress-btn-icon-align-left {
@@ -188,6 +193,10 @@ ul {
 .col-right-slides img:nth-child(3){animation-delay:5s;}
 .col-right-slides img:nth-child(2){animation-delay:10s;}
 .col-right-slides img:nth-child(1){animation-delay:15s;}
+
+.motopress-btn {
+    width: 75%;
+}
 
 .button-bedrooms {
     background-color: #92ca26;
