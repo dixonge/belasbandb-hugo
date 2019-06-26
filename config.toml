@@ -1,5 +1,5 @@
-# baseURL      = "http://belasbandb.com/"
-baseURL      = "https://pensive-swanson-17722e.netlify.com/"
+baseURL      = "https://belasbandb.com/"
+# baseURL      = "https://pensive-swanson-17722e.netlify.com/"
 # baseURL      = "http://localhost:1313/"
 languageCode = "en-us"
 title        = "Bela's Bed and Breakfast"
