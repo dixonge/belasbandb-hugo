@@ -28,10 +28,10 @@ date: 2017-07-06T01:21:27+00:00
   </div>
 
   <div class="col-right-slides">
-   <img class="slides" src="/2015/05/33-view-from-balcony.jpg" title="33 view from balcony" alt="Balcony view" />
-   <img class="slides" src="/2015/05/steppingstones.jpg" title="steppingstones" alt="Stepping Stones" />
-   <img class="slides" src="/2015/05/Three-dogs-in-garden.jpg" title="Three-dogs-in-garden" alt="Three dogs in garden" />
-   <img class="slides" src="/2015/05/bela-manuela-5-web.jpg" title="bela-manuela-5-web" alt="Manuela and Bela" />
+   <img class="slides" src="33-view-from-balcony.jpg" title="33 view from balcony" alt="Balcony view" />
+   <img class="slides" src="steppingstones.jpg" title="steppingstones" alt="Stepping Stones" />
+   <img class="slides" src="Three-dogs-in-garden.jpg" title="Three-dogs-in-garden" alt="Three dogs in garden" />
+   <img class="slides" src="bela-manuela-5-web.jpg" title="bela-manuela-5-web" alt="Manuela and Bela" />
   </div>
 
 </div>

@@ -40,7 +40,7 @@ date: 2014-11-29T00:46:51+00:00
     <a href="http://belasbandb.com/reservations/" target="_self" class="motopress-btn motopress-btn-size-middle motopress-btn-rounded motopress-btn-icon-indent-small motopress-btn-color-hot-summer motopress-btn-full-width"><i class="fa fa-book motopress-btn-icon-align-left"></i>Reservations</a>
         </div>
    <div class="code-obj">
-![](/2017/07/dogfriendly-1.png)
+![](dogfriendly-1.png)
    </div>
   </div>
 </div>
